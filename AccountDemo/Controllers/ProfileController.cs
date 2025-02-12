@@ -55,12 +55,13 @@ namespace AccountDemo.Controllers
                 Email = model.Email ?? "",
                 PhoneNumber = model.PhoneNumber ?? "",
                 Roles = model.Roles,
-                Password = model.Password ?? ""
+                Password = model.Password
             };
             await _userRepository.SaveAsync(user);
 
-            return RedirectToAction("Index");
+            return RedirectToAction("Index", true);
         }
+
         private static bool IsValidUserName(string userName)
         {
             return userName.All((c) => char.IsAsciiLetterOrDigit(c) || c == '-');
