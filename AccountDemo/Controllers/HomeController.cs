@@ -1,8 +1,8 @@
 using System.Diagnostics;
+using AccountDemo.Models;
 using Microsoft.AspNetCore.Mvc;
-using SignInSignOutDemo.Models;
 
-namespace SignInSignOutDemo.Controllers
+namespace AccountDemo.Controllers
 {
     public class HomeController : Controller
     {

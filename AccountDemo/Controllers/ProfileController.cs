@@ -1,9 +1,9 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using AccountDemo.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using SignInSignOutDemo.Models;
 using UserStorage;
 
-namespace SignInSignOutDemo.Controllers
+namespace AccountDemo.Controllers
 {
     [Authorize]
     public class ProfileController : Controller

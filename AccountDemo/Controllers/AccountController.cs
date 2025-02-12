@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
-using SignInSignOutDemo.Models;
 using System.Security.Claims;
+using AccountDemo.Models;
 using UserStorage;
 
-namespace SignInSignOutDemo.Controllers
+namespace AccountDemo.Controllers
 {
     public class AccountController : Controller
     {

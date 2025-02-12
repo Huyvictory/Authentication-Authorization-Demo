@@ -1,4 +1,4 @@
-﻿namespace SignInSignOutDemo.Models
+﻿namespace AccountDemo.Models
 {
     public class LogOnModel
     {

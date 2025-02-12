@@ -15,7 +15,7 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
         options.LoginPath = "/Account/LogOn";
         options.AccessDeniedPath = "/Account/LogOn";
         options.LogoutPath = "/Account/LogOff";
-        options.Cookie.Name = "SignInSignOutDemo.Cookie";
+        options.Cookie.Name = "AccountDemo.Cookie";
     });
 
 var app = builder.Build();

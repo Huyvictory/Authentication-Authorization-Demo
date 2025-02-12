@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserStorage", "UserStorage\UserStorage.csproj", "{4EE89526-D63B-4C6A-944A-BF119C045DDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignInSignOutDemo", "SignInSignOutDemo\SignInSignOutDemo.csproj", "{727734C2-A428-420C-ADE9-5BF3601A131F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountDemo", "AccountDemo\AccountDemo.csproj", "{727734C2-A428-420C-ADE9-5BF3601A131F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
