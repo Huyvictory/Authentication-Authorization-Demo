@@ -59,7 +59,7 @@ namespace AccountDemo.Controllers
             };
             await _userRepository.SaveAsync(user);
 
-            return RedirectToAction("Index", true);
+            return RedirectToAction("Index");
         }
 
         private static bool IsValidUserName(string userName)

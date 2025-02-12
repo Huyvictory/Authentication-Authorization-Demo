@@ -9,17 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aca52f3-6ed8-42ba-b0d1-908d99f5605c" name="Changes" comment="Update project name">
+    <list default="true" id="5aca52f3-6ed8-42ba-b0d1-908d99f5605c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SecurityDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SecurityDemo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AccountDemo/Controllers/ProfileController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AccountDemo/Controllers/ProfileController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccountDemo/Models/RegisterModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AccountDemo/Models/RegisterModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccountDemo/Models/UserProfileModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AccountDemo/Models/UserProfileModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AccountDemo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AccountDemo/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccountDemo/Views/Account/LogOn.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AccountDemo/Views/Account/LogOn.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccountDemo/Views/Account/Register.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AccountDemo/Views/Account/Register.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccountDemo/Views/Profile/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AccountDemo/Views/Profile/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserStorage/IUserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UserStorage/IUserRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserStorage/JsonFileUserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UserStorage/JsonFileUserRepository.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +26,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Huyvictory"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Huyvictory&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Huyvictory/Authentication-Authorization-Demo.git",
-    "accountId": "a6b89fec-f630-42ee-a971-3ec8a88367cf"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Huyvictory/Authentication-Authorization-Demo.git&quot;,
+    &quot;accountId&quot;: &quot;a6b89fec-f630-42ee-a971-3ec8a88367cf&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/aspnetcore/3f1acb59718cadf111a0a796681e3d3509bb3381/src/Mvc/Mvc.Core/src/Infrastructure/ActionMethodExecutor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/aspnetcore/3f1acb59718cadf111a0a796681e3d3509bb3381/src/Mvc/Mvc.Core/src/Infrastructure/ControllerActionInvoker.cs" root0="SKIP_HIGHLIGHTING" />
@@ -62,16 +55,19 @@
     <setting file="mock://C:/Users/vomin/OneDrive/HuyvictoryPC/.NET Projects/SecurityDemo/AccountDemo/Views/Account/LogOn.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/vomin/OneDrive/HuyvictoryPC/.NET Projects/SecurityDemo/AccountDemo/Views/Account/Register.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/vomin/OneDrive/HuyvictoryPC/.NET Projects/SecurityDemo/AccountDemo/Views/Profile/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/vomin/OneDrive/HuyvictoryPC/.NET Projects/SecurityDemo/AccountDemo/Views/Profile/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/vomin/OneDrive/HuyvictoryPC/.NET Projects/SecurityDemo/UserStorage/IUserRepository.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/vomin/OneDrive/HuyvictoryPC/.NET Projects/SecurityDemo/UserStorage/JsonFileUserRepository.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/vomin/OneDrive/HuyvictoryPC/.NET Projects/SecurityDemo/UserStorage/JsonFileUserRepository.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="SWEA" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2svzJNto4bqUSoHA2FlLjPcaZA6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -155,7 +151,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739350764911</updated>
-      <workItem from="1739350766737" duration="10311000" />
+      <workItem from="1739350766737" duration="10453000" />
+      <workItem from="1739372203454" duration="2672000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <option name="closed" value="true" />
@@ -173,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739351285680</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update namespace and import and models for view">
+      <option name="closed" value="true" />
+      <created>1739362026551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739362026551</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +190,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="init project" />
     <MESSAGE value="Update project name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update project name" />
+    <MESSAGE value="Update namespace and import and models for view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update namespace and import and models for view" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -202,6 +208,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AccountDemo/Controllers/AccountController.cs</url>
+          <line>54</line>
+          <properties documentPath="C:\Users\vomin\OneDrive\HuyvictoryPC\.NET Projects\SecurityDemo\AccountDemo\Controllers\AccountController.cs" containingFunctionPresentation="Method 'LogOnAsync'">
+            <startOffsets>
+              <option value="1602" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1694" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
